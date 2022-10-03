@@ -80,11 +80,11 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
     - [60p] **zdanie egzaminu zewnętrznego == uzyskanie certyfikatu AZ-900 (lub DP-900 czy też AI-900 ma AZ-900)**
       - Jeśli ktoś nie podejdzie do egzaminu, lub podejdzie i go nie zda w dopuszczalnym terminie, wtedy część wykładowa jest niezaliczona, co przekłada się na niezaliczenie przedmiotu. 
-      - konieczne jest założenie indywidualnego konta na credly.com, tak by badges się podpięły pod Wasze konta (tj. https://www.credly.com/users/estera-kot/badges)
+      - konieczne jest założenie indywidualnego konta na credly.com, tak by badges się podpięły pod Wasze konta
       - 60p za zdanie egzaminu w terminie; 0p za niezdanie w terminie; 30p za zdanie po terminie
 
     - [20p] Realizacja wszystkich zadanych modułów na **microsoft learn** (za każdy dostajecie punkty)
-      - konieczne jest założenie indywidualnego konta na microsoft learn (tj. https://learn.microsoft.com/en-us/users/esterakot/)
+      - konieczne jest założenie indywidualnego konta na microsoft learn 
 
     - [20p] zdanie testu sprawdzającego. Podlega on ocenie zgodnie ze stosowaną skalą ocen.
 
