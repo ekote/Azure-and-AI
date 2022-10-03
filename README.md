@@ -29,7 +29,14 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 ## Materiały z zajęć
-1. 
+   1. 04.10 - Start i organizacja zajęć.
+      Harmonogram
+      Konta Studenckie na Azure
+      Wykład 1z4 przygotowujący do AZ-900
+      Dodatkowe nagranie - Demo CustomVision
+      Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany.
+      Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.
+      10h indywidualnej pracy studenta
 
 
 
