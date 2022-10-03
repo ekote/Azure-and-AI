@@ -5,12 +5,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 | Data  | Temat                                                        |
 | ----- | ------------------------------------------------------------ |
-| 04.10 | Start i organizacja zajęć. <br />Harmonogram <br>Konta Studenckie na Azure <br>Wykład 1z4 przygotowujący do AZ-900 <Br>Dodatkowe nagranie - Demo CustomVision <br>10h indywidualnej pracy studenta     
-    <br>
-      Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany.<br>
-      Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.<br>
-
-|
+| 04.10 | Start i organizacja zajęć. <br />Harmonogram <br>Konta Studenckie na Azure <br>Wykład 1z4 przygotowujący do AZ-900 <Br>Dodatkowe nagranie - Demo CustomVision <br>10h indywidualnej pracy studenta <br /> Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany. <br /> Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.<br>|
 | 11.10 | Cloud concepts + Core Azure Services <br>Wykład 2z4 przygotowujący do AZ-900 <br>Dodatkowe nagrania uzupełniające <br>10h indywidualnej pracy studenta |
 | 18.10 | Security, privacy, compliance, and trust i Pricing  - wykłady 4z4 przygotowujące do AZ-900 <br>Dodatkowe nagranie uzupełniające <br>Instrukcja - jak zapisać się na egzamin i o egzaminie <br>10h indywidualnej pracy studenta |
 | 25.10 | **Egzamin wewnętrzny próbny ** - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
