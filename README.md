@@ -5,7 +5,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 | Data  | Temat                                                        |
 | ----- | ------------------------------------------------------------ |
-| 04.10 | Start i organizacja zajęć. <br />Harmonogram <br>Konta Studenckie na Azure <br>Wykład 1z4 przygotowujący do AZ-900 <Br>Dodatkowe nagranie - Demo CustomVision <br>10h indywidualnej pracy studenta <br /> Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany. <br /> Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.<br>|
+| 04.10 | Start i organizacja zajęć. <br />Harmonogram <br>Konta Studenckie na Azure <br>Wykład 1z4 przygotowujący do AZ-900 <Br>Dodatkowe nagranie - Demo CustomVision <br>10h indywidualnej pracy studenta <br /> Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany. <br /> Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.<br>Wybór Team Lead<br>|
 | 11.10 | Cloud concepts + Core Azure Services <br>Wykład 2z4 przygotowujący do AZ-900 <br>Dodatkowe nagrania uzupełniające <br>10h indywidualnej pracy studenta |
 | 18.10 | Security, privacy, compliance, and trust i Pricing  - wykłady 4z4 przygotowujące do AZ-900 <br>Dodatkowe nagranie uzupełniające <br>Instrukcja - jak zapisać się na egzamin i o egzaminie <br>10h indywidualnej pracy studenta |
 | 25.10 | **Egzamin wewnętrzny próbny ** - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
@@ -129,9 +129,10 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 Prowadząca mgr inż. Estera Kot. Doktorantka na ostatnim semestrze studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Przez 2.5 roku pracowała jako Area Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence i Data. Obecnie jako Senior Technical Program Manager w Microsoft pracuje nad Azure Synapse Analytics, HDInsight, Spark na Azure.
 
 - Konsultacje online odbywają się w dowolnym terminie po uprzednim uzgodnieniu daty poprzez kontakt mailowy. 
-- Konsultacje stacjonarne są zawieszone (chyba, że w Gdyni).
+- Konsultacje stacjonarne są zawieszone.
 - Konsultacje nie są dodatkowym terminem zajęć.
 - Komunikacja mailowa odbywa się **TYLKO** poprzez **<u>email</u>**: esterakot@gmail.com - piszcie proszę w ważnych sprawach. 
+- *Wszystkie pytania związane ze środowiskami, błędami, problemami - proszę pisać na czacie przedmiotu w MS Teams*
 - Jak pisać formalne maile do prowadzących, by szybciej i z powodzeniem załatwiać sprawy:
   - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
   - http://www.multimedia.univ.rzeszow.pl/?p=1350
