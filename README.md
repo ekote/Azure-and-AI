@@ -29,7 +29,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 ## Nagrania zajęć
-1. Bieżąca playlista: 
+1. Bieżąca playlista: https://youtube.com/playlist?list=PLnfmGXUkCC7RFF3P9YlnigMvYMV5KkjAu 
 2. Rok Z2021 - https://bit.ly/innovations-on-azure-v2
 3. Rok Z2020:
    1. wprowadzenie (intro) - https://bit.ly/innovations-on-azure
