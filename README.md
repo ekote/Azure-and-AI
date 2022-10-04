@@ -3,14 +3,14 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 ## Harmonogram zajęć
 
-| Data  | Temat                                                        |
-| ----- | ------------------------------------------------------------ |
-| 04.10 | Start i organizacja zajęć. <br />Harmonogram <br>Konta Studenckie na Azure <br>Wykład 1z4 przygotowujący do AZ-900 <Br>Dodatkowe nagranie - Demo CustomVision <br>10h indywidualnej pracy studenta <br /> Założenie kont w MS learn przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd. Po pomyślnej rejestracji, wchodzimy w zakładkę konto i dodajemy mail uczelaniany. <br /> Założenie kont w credly przy użyciu maila prywatnego (nie uczelnianego), czyli w domenie @gmail itd.<br>Wybór Team Lead<br>|
+| Data  | Agenda                                                        |
+|-------|----------|
+| 04.10 | Powitanie, organizacja zajęć, wonta, wykład i gość specjalny `assets/1.md`|
 | 11.10 | Cloud concepts + Core Azure Services <br>Wykład 2z4 przygotowujący do AZ-900 <br>Dodatkowe nagrania uzupełniające <br>10h indywidualnej pracy studenta |
 | 18.10 | Security, privacy, compliance, and trust i Pricing  - wykłady 4z4 przygotowujące do AZ-900 <br>Dodatkowe nagranie uzupełniające <br>Instrukcja - jak zapisać się na egzamin i o egzaminie <br>10h indywidualnej pracy studenta |
-| 25.10 | **Egzamin wewnętrzny próbny ** - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
+| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
 | 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals - dla wszystkich |
-| 08.11 | Start **projektów** <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu |
+| 08.11 | Start projektów <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu |
 | 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową: udostępniacie mi link do waszego publicznego konta na credly (z uzyskanym certyfikatem), i profil na microsoft learn (ze zrealizowanymi zadaniami) oraz link do certifikatu databricks. Wstawiam oceny do ISOD z części wykładowej. <br> np. MS learn - https://learn.microsoft.com/en-us/users/esterakot/ <br> credly - https://www.credly.com/users/estera-kot/badges <br> dbx - https://credentials.databricks.com/a85be0ae-758c-48cd-bcb1-62b0fda46b01 |
 | 15.11 | Dzień PW - nie ma zajęć                                      |
 | 22.11 | Status projektów - <u>konsultacje obowiąkowe</u> <br>Automatyzacja na Azure<br>14h indywidualnej pracy studenta |
@@ -20,7 +20,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 20.12 | Prezentacja projektów przed grupą - <u>zajęcia obowiąkowe</u><br/> <br>Ethical AI i fairness <br>Po zajęciach - ostateczne wystawienie ocen <br> |
 
 
-1. Prowadząca zastrzega sobie prawo do modyfikacji harmonogramu (tematów zajęć)  
+1. Prowadząca zastrzega sobie prawo do modyfikacji harmonogramu (terminów i tematów zajęć)  
 2. Zajęcia kończą się wcześniej ze względu na poniższe doświadczenia:
    1. osoby z semestru 7 na początku stycznia chcą się bronić
    2. osoby z semestru 5 na początku stycznia wyjeżają za granicę albo z programem Erazmus, albo na narty
@@ -39,19 +39,11 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 ## Ważne linki
 
 - (sprawdzanie stanu subskrypcji studenckiej](https://www.microsoftazuresponsorships.com/)
-
 - portfolio usług na Azure - https://azurecharts.com lub [Periodic table | Azure Services IO](https://azureservices.io/#)
-
 - "Telewizja" Microsoftu [AI Show | Channel 9 (msdn.com)](https://channel9.msdn.com/Shows/AI-Show)
-
 - [Azure AZ-900 Exam Preparation Guide: How to pass in 3 days | by Perth Ngarmtrakulchol | Servian](https://servian.dev/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a) 
-
 - Azure Friday - [Azure Friday | Channel 9 (msdn.com)](https://channel9.msdn.com/Shows/Azure-Friday)
-
 - Azure Cloud Natvie - mapbook [PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook: The Azure Cloud Native Architecture Mapbook, published by Packt (github.com)](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook)
-
-- Fenomenalny kurs Adama Marczaka - http://marczak.io/az-900/ 
-
 - Sprawdzanie dostępności usługi w danym regionie - https://azure.microsoft.com/en-us/global-infrastructure/services/
 
 
@@ -72,22 +64,22 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
   - Wejściówki/zejściówki - nie planuję
   - Warunkiem zaliczenia części teoretycznej tego przedmiotu jest:
 
-    - [60p] **zdanie egzaminu zewnętrznego == uzyskanie certyfikatu AZ-900 (lub DP-900 czy też AI-900 ma AZ-900)**
+    - `51p` zdanie egzaminu zewnętrznego == uzyskanie certyfikatu AZ-900 (lub DP-900 czy też AI-900 ma AZ-900)**
       - Jeśli ktoś nie podejdzie do egzaminu, lub podejdzie i go nie zda w dopuszczalnym terminie, wtedy część wykładowa jest niezaliczona, co przekłada się na niezaliczenie przedmiotu. 
       - konieczne jest założenie indywidualnego konta na credly.com, tak by badges się podpięły pod Wasze konta
-      - 60p za zdanie egzaminu w terminie; 0p za niezdanie w terminie; 30p za zdanie po terminie
+      - 51p za zdanie egzaminu w terminie; 0p za niezdanie w terminie; połowa za zdanie po terminie
 
-    - [20p] Realizacja wszystkich zadanych modułów na **microsoft learn** (za każdy dostajecie punkty)
+    - `20p` Realizacja wszystkich zadanych modułów na **microsoft learn** (za każdy dostajecie punkty)
       - konieczne jest założenie indywidualnego konta na microsoft learn 
 
-    - [20p] zdanie testu sprawdzającego. Podlega on ocenie zgodnie ze stosowaną skalą ocen.
+    - `20p` zdanie testu sprawdzającego. Podlega on ocenie zgodnie ze stosowaną skalą ocen.
+    - `9p` - uzyskanie certyfikatu Lakehouse fundamentals 
+    
+    Uwaga bo są na punkty ujemne. `-10p` za każdorazowe nieuzupełnienie formularza.
 
   - Zajęcia projektowe
-
     - obowiązkowe te, które mają informację, że są obowiązkowe
-
     - Usprawiedliwiona nieobecność tylko pismem urzędowym lub w szczególnych przypadkach
-
     - Projekt 
       - dwa spotkania "konsultacje obowiązkowe", każde po 10p indywidualnych
       - Oddanie projektu 30p = 15p grupowe + 15p indywidualne
@@ -121,7 +113,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 - **curiosity and I want to learn it - attidude**
 - **respect deadlines**
 - **respect**
-- **NVC**
+- **[NVC](nonviolentcommunication.com)** 
 
 
 
