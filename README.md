@@ -123,8 +123,8 @@ Prowadząca mgr inż. Estera Kot. Doktorantka na ostatnim semestrze studiów trz
 - Konsultacje online odbywają się w dowolnym terminie po uprzednim uzgodnieniu daty poprzez kontakt mailowy. 
 - Konsultacje stacjonarne są zawieszone.
 - Konsultacje nie są dodatkowym terminem zajęć.
-- Komunikacja mailowa odbywa się **TYLKO** poprzez **<u>email</u>**: esterakot@gmail.com - piszcie proszę w ważnych sprawach. 
-- *Wszystkie pytania związane ze środowiskami, błędami, problemami - proszę pisać na czacie przedmiotu w MS Teams*
+- Komunikacja odbywa się tylko poprzez email (jest w ISOD). 
+- Wszystkie pytania związane ze środowiskami, błędami, problemami - proszę pisać na czacie przedmiotu w MS Teams
 - Jak pisać formalne maile do prowadzących, by szybciej i z powodzeniem załatwiać sprawy:
   - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
   - http://www.multimedia.univ.rzeszow.pl/?p=1350
