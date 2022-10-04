@@ -5,7 +5,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 | Data  | Agenda                                                        |
 |-------|----------|
-| 04.10 | Powitanie, organizacja zajęć, wonta, wykład i gość specjalny `assets/1.md`|
+| 04.10 | Powitanie, organizacja zajęć, konta, wykład i gość specjalny `assets/1.md`|
 | 11.10 | Cloud concepts + Core Azure Services <br>Wykład 2z4 przygotowujący do AZ-900 <br>Dodatkowe nagrania uzupełniające <br>10h indywidualnej pracy studenta |
 | 18.10 | Security, privacy, compliance, and trust i Pricing  - wykłady 4z4 przygotowujące do AZ-900 <br>Dodatkowe nagranie uzupełniające <br>Instrukcja - jak zapisać się na egzamin i o egzaminie <br>10h indywidualnej pracy studenta |
 | 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
