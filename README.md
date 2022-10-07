@@ -6,11 +6,11 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | Data  | Agenda                                                    |
 |-------|----------|
 | 04.10 | Powitanie, organizacja zajęć, konta, wykład i gość specjalny `assets/1.md`|
-| 11.10 | Cloud concepts + Core Azure Services |
-| 18.10 | Security, privacy, compliance, and trust |
-| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> |
+| 11.10 | Cloud concepts + Core Azure Services `assets/2.md`|
+| 18.10 | Security, privacy, compliance, and trust `assets/3.md`|
+| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> `assets/4.md`|
 | 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals - dla wszystkich |
-| 08.11 | Start projektów <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu |
+| 08.11 | Start projektów <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu `assets/5.md`|
 | 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową: udostępniacie mi link do waszego publicznego konta na credly (z uzyskanym certyfikatem), i profil na microsoft learn (ze zrealizowanymi zadaniami) oraz link do certifikatu databricks. Wstawiam oceny do ISOD z części wykładowej. <br> np. MS learn - https://learn.microsoft.com/en-us/users/esterakot/ <br> credly - https://www.credly.com/users/estera-kot/badges <br> dbx - https://credentials.databricks.com/a85be0ae-758c-48cd-bcb1-62b0fda46b01 |
 | 15.11 | Dzień PW - nie ma zajęć                                  |
 | 22.11 | Status projektów - <u>konsultacje obowiąkowe</u> <br>Automatyzacja na Azure<br>14h indywidualnej pracy studenta |
