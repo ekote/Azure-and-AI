@@ -103,7 +103,7 @@ into a hierarchy for unified policy and access management. The following diagram
 creating a hierarchy for governance by using management groups
 
 Spójrzcie jak na Azure wygląda hierarchia głównych bytów: 
-![rgs](![rgs](https://raw.githubusercontent.com/ekote/Azure-and-AI/main/assets/imgs/1.png))
+![rgs](https://raw.githubusercontent.com/ekote/Azure-and-AI/main/assets/imgs/1.png)
  
 
 Wideo do obejrzenia:[![](http://img.youtube.com/vi/gIhf-S7BCdo/0.jpg)](http://www.youtube.com/watch?v=gIhf-S7BCdo "")
