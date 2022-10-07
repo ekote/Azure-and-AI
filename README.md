@@ -3,20 +3,20 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 ## Harmonogram zajęć
 
-| Data  | Agenda                                                        |
+| Data  | Agenda                                                    |
 |-------|----------|
 | 04.10 | Powitanie, organizacja zajęć, konta, wykład i gość specjalny `assets/1.md`|
-| 11.10 | Cloud concepts + Core Azure Services <br>Wykład 2z4 przygotowujący do AZ-900 <br>Dodatkowe nagrania uzupełniające <br>10h indywidualnej pracy studenta |
-| 18.10 | Security, privacy, compliance, and trust i Pricing  - wykłady 4z4 przygotowujące do AZ-900 <br>Dodatkowe nagranie uzupełniające <br>Instrukcja - jak zapisać się na egzamin i o egzaminie <br>10h indywidualnej pracy studenta |
-| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> <br>10h indywidualnej pracy studenta |
+| 11.10 | Cloud concepts + Core Azure Services |
+| 18.10 | Security, privacy, compliance, and trust |
+| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> |
 | 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals - dla wszystkich |
 | 08.11 | Start projektów <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu |
 | 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową: udostępniacie mi link do waszego publicznego konta na credly (z uzyskanym certyfikatem), i profil na microsoft learn (ze zrealizowanymi zadaniami) oraz link do certifikatu databricks. Wstawiam oceny do ISOD z części wykładowej. <br> np. MS learn - https://learn.microsoft.com/en-us/users/esterakot/ <br> credly - https://www.credly.com/users/estera-kot/badges <br> dbx - https://credentials.databricks.com/a85be0ae-758c-48cd-bcb1-62b0fda46b01 |
-| 15.11 | Dzień PW - nie ma zajęć                                      |
+| 15.11 | Dzień PW - nie ma zajęć                                  |
 | 22.11 | Status projektów - <u>konsultacje obowiąkowe</u> <br>Automatyzacja na Azure<br>14h indywidualnej pracy studenta |
-| 29.11 | Konsultacje<br>12h indywidualnej pracy studenta              |
+| 29.11 | Konsultacje<br>12h indywidualnej pracy studenta          |
 | 06.12 | Status projektów - <u>konsultacje obowiąkowe</u><br>12h indywidualnej pracy studenta |
-| 13.12 | Konsultacje<br>12h indywidualnej pracy studenta              |
+| 13.12 | Konsultacje<br>12h indywidualnej pracy studenta          |
 | 20.12 | Prezentacja projektów przed grupą - <u>zajęcia obowiąkowe</u><br/> <br>Ethical AI i fairness <br>Po zajęciach - ostateczne wystawienie ocen <br> |
 
 
