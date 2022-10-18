@@ -118,15 +118,8 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 ## Konsultacje i komunikacja
-Prowadząca mgr inż. Estera Kot. Doktorantka na ostatnim semestrze studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Przez 2.5 roku pracowała jako Area Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence i Data. Obecnie jako Senior Technical Program Manager w Microsoft pracuje nad Azure Synapse Analytics, HDInsight, Spark na Azure.
+Prowadząca mgr inż. Estera Kot. Doktorantka na IX semestrze studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Przez 2.5 roku pracowała jako Area Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence i Data. Obecnie jako Senior Technical Program Manager w Microsoft pracuje nad Azure Synapse Analytics, HDInsight, Spark na Azure.
 
-- Konsultacje online odbywają się w dowolnym terminie po uprzednim uzgodnieniu daty poprzez kontakt mailowy. 
-- Konsultacje stacjonarne są zawieszone.
+- Konsultacje online odbywają się w dowolnym terminie, po uprzednim uzgodnieniu daty poprzez kontakt mailowy (mail jest w ISOD) albo MS Teams. 
 - Konsultacje nie są dodatkowym terminem zajęć.
-- Komunikacja odbywa się tylko poprzez email (jest w ISOD). 
 - Wszystkie pytania związane ze środowiskami, błędami, problemami - proszę pisać na czacie przedmiotu w MS Teams
-- Jak pisać formalne maile do prowadzących, by szybciej i z powodzeniem załatwiać sprawy:
-  - http://filologika.pl/porady-jezykowe/jak-pisac-maile-do-prowadzacych
-  - http://www.multimedia.univ.rzeszow.pl/?p=1350
-  - http://www.zaparzeciherbate.pl/jak-napisac-e-mail-do-wykladowcy/
-
