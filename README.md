@@ -82,8 +82,8 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
     - obowiązkowe te, które mają informację, że są obowiązkowe
     - Usprawiedliwiona nieobecność tylko pismem urzędowym lub w szczególnych przypadkach
     - Projekt 
-      - dwa spotkania "konsultacje obowiązkowe", każde po 10p indywidualnych
-      - Oddanie projektu 30p = 15p grupowe + 15p indywidualne
+      - Projekt S 30p = 15p grupowe + 15p indywidualne
+      - Projekt XL 70p = 35p grupowe + 35p indywidualne
     - Dosłanie prac/artefaktów po terminie jest możliwe, ale wtedy maksymalnie można dostać połowę punktów
 
 
