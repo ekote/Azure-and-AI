@@ -8,7 +8,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 04.10 | Powitanie, organizacja zajęć, konta, wykład i gość specjalny `assets/1.md`|
 | 11.10 | Cloud concepts + Core Azure Services `assets/2.md`|
 | 18.10 | Security, privacy, compliance, and trust `assets/3.md`|
-| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> [`assets/4.md`](https://github.com/ekote/Azure-and-AI/blob/main/assets/4.md)|
+| 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> [`assets/4.md`](https://github.com/ekote/Azure-and-AI/blob/main/assets/4.md). 2 tyg do następnych zajęć |
 | 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals |
 | 08.11 | Zajęcia - Start projektów S [`assets/5.md`](https://github.com/ekote/Azure-and-AI/blob/main/assets/5.md). Analityka z Databricks i Synapse |
 | 09/10 11 | Konsultacje obowiązkowe - zakres projektu S (formularz zapisu na konsultacje zostanie udostępniony na MS Teams |
