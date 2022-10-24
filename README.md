@@ -9,15 +9,16 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 11.10 | Cloud concepts + Core Azure Services `assets/2.md`|
 | 18.10 | Security, privacy, compliance, and trust `assets/3.md`|
 | 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> `assets/4.md`|
-| 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals - dla wszystkich |
-| 08.11 | Start projektów <br>AI na Azure<Br>dodatkowe zajęcia projektowe<br>10h indywidualnej pracy studenta <br>Databricks i Lakehouse Fundamentals - założenie konta i realizacja kursu, kończącego uzystkaniem certyfikatu `assets/5.md`|
-| 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową: udostępniacie mi link do waszego publicznego konta na credly (z uzyskanym certyfikatem), i profil na microsoft learn (ze zrealizowanymi zadaniami) oraz link do certifikatu databricks. Wstawiam oceny do ISOD z części wykładowej. <br> np. MS learn - https://learn.microsoft.com/en-us/users/esterakot/ <br> credly - https://www.credly.com/users/estera-kot/badges <br> dbx - https://credentials.databricks.com/a85be0ae-758c-48cd-bcb1-62b0fda46b01 |
+| 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals |
+| 08.11 | Zajęcia - Start projektów S `assets/5.md`. Analityka z Databricks i Synapse |
+| 09/10 11 | Konsultacje obowiązkowe - zakres projektu S |
+| 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową `assets/6.md`|
 | 15.11 | Dzień PW - nie ma zajęć                                  |
-| 22.11 | Status projektów - <u>konsultacje obowiąkowe</u> <br>Automatyzacja na Azure<br>14h indywidualnej pracy studenta |
-| 29.11 | Konsultacje<br>12h indywidualnej pracy studenta          |
-| 06.12 | Status projektów - <u>konsultacje obowiąkowe</u><br>12h indywidualnej pracy studenta |
-| 13.12 | Konsultacje<br>12h indywidualnej pracy studenta          |
-| 20.12 | Prezentacja projektów przed grupą - <u>zajęcia obowiąkowe</u><br/> <br>Ethical AI i fairness <br>Po zajęciach - ostateczne wystawienie ocen <br> |
+| 22.11 | Zajęcia - Oddanie projektów S i start projektów XL. AI na Azure `assets/7.md` |
+| 29.11 | Konsultacje obowiązkowe `assets/8.md`     |
+| 06.12 | Konsultacje nieobowiązkowe - Status projektów - <u>konsultacje obowiąkowe</u><br>12h indywidualnej pracy studenta |
+| 13.12 | Konsultacje nieobowiązkowe <br>12h indywidualnej pracy studenta          |
+| 20.12 | Oddanie projektów XL. Ethical AI i fairness <br> Po zajęciach - ostateczne wystawienie ocen <br> |
 
 
 1. Prowadząca zastrzega sobie prawo do modyfikacji harmonogramu (terminów i tematów zajęć)  
