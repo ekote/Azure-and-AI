@@ -6,8 +6,8 @@ Cel każdego projektu to stworzenie innowacji pomagającej w rozwiązaniu ważne
 
 ## #1 - S 
 
-- zespoły 4 osobowe
-- minimum 4 serwisy na architekturze z tego minimum 2 serwisy jako serwisy główne
+- zespoły 3 osobowe
+- minimum 3 serwisy na architekturze z tego minimum 2 serwisy jako serwisy główne
 
 
 ## #2 - XL
