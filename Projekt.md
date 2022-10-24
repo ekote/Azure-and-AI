@@ -52,15 +52,3 @@ Przykłady z zeszłego:
 - [pawellski/MS_AZURE_AI_WEB_SCRAPING (github.com)](https://github.com/pawellski/MS_AZURE_AI_WEB_SCRAPING)
 
 
-
-
-
-### Inspiracje
-
-- [MCW-App-modernization/HOL step-by-step - App modernization.md at main · microsoft/MCW-App-modernization (github.com)](https://github.com/microsoft/MCW-App-modernization/blob/main/Hands-on lab/HOL step-by-step - App modernization.md)
-- [MCW-Intelligent-analytics/HOL step-by-step - Intelligent analytics.md at main · microsoft/MCW-Intelligent-analytics (github.com)](https://github.com/microsoft/MCW-Intelligent-analytics/blob/main/Hands-on lab/HOL step-by-step - Intelligent analytics.md)
-- [MCW-Serverless-architecture/HOL step-by-step - Serverless architecture.md at master · microsoft/MCW-Serverless-architecture (github.com)](https://github.com/microsoft/MCW-Serverless-architecture/blob/master/Hands-on lab/HOL step-by-step - Serverless architecture.md)
-- [MCW-Cognitive-services-and-deep-learning/Hands-on lab at main · microsoft/MCW-Cognitive-services-and-deep-learning (github.com)](https://github.com/microsoft/MCW-Cognitive-services-and-deep-learning/tree/main/Hands-on lab)
-- [MCW-Media-AI/Hands-on lab at master · microsoft/MCW-Media-AI (github.com)](https://github.com/microsoft/MCW-Media-AI/tree/master/Hands-on lab)
-- [MCW-Internet-of-Things/Hands-on lab at main · microsoft/MCW-Internet-of-Things (github.com)](https://github.com/microsoft/MCW-Internet-of-Things/tree/main/Hands-on lab)
-

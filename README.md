@@ -11,7 +11,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 25.10 | Egzamin wewnętrzny próbny - <u>zajęcia obowiąkowe</u> `assets/4.md`|
 | 07.11 | Ostateczny deadline na zdanie egzaminu zewnętrznego Azure Fundamentals |
 | 08.11 | Zajęcia - Start projektów S `assets/5.md`. Analityka z Databricks i Synapse |
-| 09/10 11 | Konsultacje obowiązkowe - zakres projektu S |
+| 09/10 11 | Konsultacje obowiązkowe - zakres projektu S (formularz zapisu na konsultacje zostanie udostępniony na MS Teams |
 | 14.11 | Deadline uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową `assets/6.md`|
 | 15.11 | Dzień PW - nie ma zajęć                                  |
 | 22.11 | Zajęcia - Oddanie projektów S i start projektów XL. AI na Azure `assets/7.md` |
