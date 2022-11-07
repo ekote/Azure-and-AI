@@ -1,0 +1,8 @@
+- Create Synapse Analytics via azure portal
+- see all related services
+- go to the studio
+- import the data
+  - create pipeline to download the data
+  - or download to a local PC and just import
+- import notebook
+- test notebook
