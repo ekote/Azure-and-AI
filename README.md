@@ -1,7 +1,7 @@
 # Azure and AI
 Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Informatyka w semestrze 2021/2022 na Politechnice Warszawskiej.
 
-![rgs](https://raw.githubusercontent.com/ekote/Azure-and-AI/main/assets/imgs/azureandai.png)
+![rgs](https://raw.githubusercontent.com/ekote/Azure-and-AI/main/assets/imgs/azureandai.jpg)
  
 
 ## Harmonogram zajęć
