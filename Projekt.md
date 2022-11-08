@@ -51,4 +51,6 @@ Przykłady z zeszłego:
 - [jeleniep/ServerlessRealTimeDocumentSimilarityEngineUsingPythonAndAzureFunctions (github.com)](https://github.com/jeleniep/ServerlessRealTimeDocumentSimilarityEngineUsingPythonAndAzureFunctions)
 - [pawellski/MS_AZURE_AI_WEB_SCRAPING (github.com)](https://github.com/pawellski/MS_AZURE_AI_WEB_SCRAPING)
 
-
+## Dataset
+- https://www.kaggle.com/datasets
+- https://learn.microsoft.com/en-us/azure/open-datasets/dataset-catalog
