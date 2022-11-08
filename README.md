@@ -1,6 +1,9 @@
 # Azure and AI
 Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Informatyka w semestrze 2021/2022 na Politechnice Warszawskiej.
 
+![rgs](https://raw.githubusercontent.com/ekote/Azure-and-AI/main/assets/imgs/azureandai.png)
+ 
+
 ## Harmonogram zajęć
 
 | Data  | Agenda                                                    |
@@ -90,21 +93,22 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 ##### Stosowana skala ocen
+```
+ 1/10 - beznadziejna
+ 2/10 - bardzo słaba
+ 3/10 - słaba
+ 4/10 - może być
+ 5/10 - przeciętna
+ 6/10 - dobra
+ 7/10 - bardzo dobra
+ 8/10 - rewelacja
+ 9/10 - wybitna
+ 10 - arcydzieło
+```
 
-- 1/10 - beznadziejna
-- 2/10 - bardzo słaba
-- 3/10 - słaba
-- 4/10 - może być
-- 5/10 - przeciętna
-- 6/10 - dobra
-- 7/10 - bardzo dobra
-- 8/10 - rewelacja
-- 9/10 - wybitna
-- 10 - arcydzieło
 
 
-
-## Code of conduct
+### Code of conduct
 
 - **100% remotely**
 - <u>**participation only with camera enabled**</u>
@@ -118,7 +122,7 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 
 
 
-## Konsultacje i komunikacja
+### Konsultacje i komunikacja
 Prowadząca mgr inż. Estera Kot. Doktorantka na IX semestrze studiów trzeciego stopnia na kierunku Informatyka na Wydziale Elektrycznym Politechniki Warszawskiej. Przez 2.5 roku pracowała jako Area Senior Cloud Solution Architect w Microsoft ze specjalizają w Artificial Intelligence i Data. Obecnie jako Senior Technical Program Manager w Microsoft pracuje nad Azure Synapse Analytics, HDInsight, Spark na Azure.
 
 - Konsultacje online odbywają się w dowolnym terminie, po uprzednim uzgodnieniu daty poprzez kontakt mailowy (mail jest w ISOD) albo MS Teams. 
