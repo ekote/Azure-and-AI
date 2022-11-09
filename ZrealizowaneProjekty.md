@@ -4,8 +4,8 @@
 
 | Nr grupy | Nazwa projektu                                                                                                        | Repo | Demo | Diagram |
 |----------|---------------------------------------------------------------------------------------------------------------------------|------|------|---------|
-| 1        | nazwa projektu                                      | link    | link    | link |
-| 2        | API pozwalające na automatyczne tagowanie artykułów | [link](https://github.com/iruszpel/Azure-Projekt-S)    | link    | link |
+| 1        | API pozwalające na automatyczne tagowanie artykułów | [link](https://github.com/iruszpel/Azure-Projekt-S)    | link    | link |
+| 2        | Wyszukiwanie książek przy pomocy tagów              | [link](https://github.com/Kasprzak-Arkadiusz/Azure-S)    | link    | link |
 | 3        | nazwa projektu                                      | link    | link    | link |
 | 4        | nazwa projektu                                      | link    | link    | link |
 | 5        | nazwa projektu                                      | link    | link    | link |
