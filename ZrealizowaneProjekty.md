@@ -8,8 +8,8 @@
 | 2        | Wyszukiwanie książek przy pomocy tagów              | [link](https://github.com/Kasprzak-Arkadiusz/Azure-S)    | link    | link |
 | 3        | Silnik rekomendacji dla Spotify                     | [link](https://github.com/mihawb/synapse-recommendations)    | link    | link |
 | 4        | Aplikacja webowa do zabaw mikołajkowych             | [link](https://github.com/SmiledProgrammer/StNicholasGiftsAzure)    | link    | link |
-| 5        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
-| 6        | nazwa projektu                                      | link    | link    | link |
+| 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | link    | link |
+| 6        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
 | 7        | nazwa projektu                                      | link    | link    | link |
 | 8        | nazwa projektu                                      | link    | link    | link |
 | 9        | nazwa projektu                                      | link    | link    | link |
