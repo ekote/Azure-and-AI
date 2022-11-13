@@ -11,7 +11,7 @@
 | 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | link    | link |
 | 6        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
 | 7        | nazwa projektu                                      | link    | link    | link |
-| 8        | EasyThrow - Aplikacja wspomagająca segregację śmiec | [link](https://github.com/PiorunPL/EasyThrow)    | link    | link |
+| 8        | EasyThrow - Aplikacja wspomagająca segregację śmieci | [link](https://github.com/PiorunPL/EasyThrow)    | link    | link |
 | 9        | nazwa projektu                                      | link    | link    | link |
 | 10        | nazwa projektu                                      | link    | link    | link |
 | 11       | nazwa projektu                                      | link    | link    | link |
