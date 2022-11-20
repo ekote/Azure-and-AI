@@ -14,7 +14,7 @@
 | 8        | nazwa projektu                                      | link    | link    | link |
 | 9        | nazwa projektu                                      | link    | link    | link |
 | 10        | nazwa projektu                                      | link    | link    | link |
-| 11       | nazwa projektu                                      | link    | link    | link |
+| 11       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
 | 12        | nazwa projektu                                      | link    | link    | link |
 
 
