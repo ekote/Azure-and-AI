@@ -15,7 +15,7 @@
 | 9        | nazwa projektu                                      | link    | link    | link |
 | 10        | nazwa projektu                                      | link    | link    | link |
 | 11       | nazwa projektu                                      | link    | link    | link |
-| 12        | nazwa projektu                                      | link    | link    | link |
+| 12        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
 
 
 ## Projekt #2 XL
