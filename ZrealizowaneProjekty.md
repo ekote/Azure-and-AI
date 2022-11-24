@@ -11,11 +11,15 @@
 | 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | link    | link |
 | 6        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
 | 7        | Detekcja oraz analiza interakcji międzyludzkich     | [link](https://github.com/TomaszGryczka/HADaR)    | link    | link |
+| 7        | Aplikacja do zliczania obiektów na zdjęciu          | [link](https://github.com/Majkel572/AzureObjCounter-S)    | link    | link |
+| 7        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
 | 8        | nazwa projektu                                      | link    | link    | link |
 | 9        | nazwa projektu                                      | link    | link    | link |
 | 10        | nazwa projektu                                      | link    | link    | link |
-| 11       | nazwa projektu                                      | link    | link    | link |
+| 11       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
 | 12        | nazwa projektu                                      | link    | link    | link |
+| 11       | nazwa projektu                                      | link    | link    | link |
+| 12        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
 
 
 ## Projekt #2 XL
