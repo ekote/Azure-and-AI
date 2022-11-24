@@ -15,8 +15,8 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 09/10 11 | Konsultacje obowiązkowe - zakres projektu S (formularz zapisu na konsultacje zostanie udostępniony na MS Teams |
 | 14.11 | Deadline (23:59) uzupełnienia formularza zaliczającego cześć teoretyczno-wykładową [`assets/6.md`](https://github.com/ekote/Azure-and-AI/blob/main/assets/6.md)|
 | 15.11 | Dzień PW - nie ma zajęć                                  |
-| 22.11 | Zajęcia - Oddanie projektów S i start projektów XL. AI na Azure `assets/7.md` |
-| 29.11 | Konsultacje obowiązkowe (zapisy) `assets/8.md`     |
+| 22.11 | Konsultacje dla chętnych |
+| 29.11 | Zajęcia - Oddanie projektów S i start projektów XL. AI na Azure `assets/7.md`   |
 | 06.12 | Konsultacje nieobowiązkowe - Status projektów - <u>konsultacje obowiąkowe</u><br>12h indywidualnej pracy studenta (zapisy) |
 | 13.12 | Konsultacje nieobowiązkowe <br>12h indywidualnej pracy studenta (zapisy)         |
 | 20.12 | Oddanie projektów XL. Ethical AI i fairness <br> Po zajęciach - ostateczne wystawienie ocen <br> |
