@@ -17,6 +17,7 @@
 | 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
 | 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
 | 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
+| 14        | Tumor Detection App                                      | [link](https://github.com/Klepackp/azure_tumor_recognition)    | link    | link |
 
 
 ## Projekt #2 XL
