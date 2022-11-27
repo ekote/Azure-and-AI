@@ -15,7 +15,7 @@
 | 9        | Detekcja oraz analiza interakcji międzyludzkich     | [link](https://github.com/TomaszGryczka/HADaR)    | link    | link |
 | 10        | Aplikacja do zliczania obiektów na zdjęciu          | [link](https://github.com/Majkel572/AzureObjCounter-S)    | link    | link |
 | 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
-| 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
+| 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | [link](https://www.youtube.com/watch?v=y7lijrdE9co)    | [link](https://user-images.githubusercontent.com/57191854/204160244-fd5462e6-8528-4954-950b-7206747380ce.png) |
 | 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
 
 
