@@ -14,7 +14,7 @@
 | 8        | EasyThrow - Aplikacja wspomagająca segregację śmieci | [link](https://github.com/EasyThrowCompany/EasyThrow)    | link    | link |
 | 9        | Detekcja oraz analiza interakcji międzyludzkich     | [link](https://github.com/TomaszGryczka/HADaR)    | link    | link |
 | 10        | Aplikacja do zliczania obiektów na zdjęciu          | [link](https://github.com/Majkel572/AzureObjCounter-S)    | link    | link |
-| 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
+| 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec/blob/main/images/architektura.png) |
 | 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
 | 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
 
