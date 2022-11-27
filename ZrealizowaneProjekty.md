@@ -17,6 +17,7 @@
 | 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
 | 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
 | 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
+| 13        | Shroooms recognition                               | [link](https://github.com/Reszkins/Shroooms)                    | [link](https://www.youtube.com/watch?v=zGd1doMS_b8)    | [link](https://user-images.githubusercontent.com/73696833/204140300-11509b55-48ce-41d8-8fc5-bc95b20af218.png) |
 
 
 ## Projekt #2 XL
