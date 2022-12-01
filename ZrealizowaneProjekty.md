@@ -16,7 +16,8 @@
 | 10        | Aplikacja do zliczania obiektów na zdjęciu          | [link](https://github.com/Majkel572/AzureObjCounter-S)    | link    | link |
 | 11        | Detekcja chorób oczu na podstawie zdjęć                                     | [link](https://github.com/NeferHikari/Detekcja-chorob-oczu-na-podstawie-zdjec.git)    | link    | link |
 | 12       | Makeup detector                                      | [link](https://github.com/wojcikm11/makeup-detector-web-app)    | link    | link |
-| 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | link    | link |
+| 13        | Silnik rekomendacji dla filmów                                      | [link](https://github.com/ancq99/azure-movie-recommendation-engine)    | [link](https://www.youtube.com/watch?v=BDy3EB7fzNY)    | [link](https://user-images.githubusercontent.com/66008982/204089823-8548dacb-f3a8-4a16-9fcc-b846be7da6c2.png)
+ |
 
 
 ## Projekt #2 XL
