@@ -10,7 +10,7 @@
 | 4        | Aplikacja webowa do zabaw mikołajkowych             | [link](https://github.com/SmiledProgrammer/StNicholasGiftsAzure)    | link    | link |
 | 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | link    | link |
 | 6        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
-| 7        | Aplikacja rozpoznająca choroby u roślin             | [link](https://github.com/KomorowskiKuba/plant-disease-detection)    | link    | link |
+| 7        | Aplikacja rozpoznająca choroby u roślin             | [link](https://github.com/KomorowskiKuba/plant-disease-detection)    | [link](https://www.youtube.com/watch?v=Qs1Xk0x3tXE)    | [link](https://github.com/KomorowskiKuba/plant-disease-classification/blob/master/diagram.jpg) |
 | 8        | EasyThrow - Aplikacja wspomagająca segregację śmieci | [link](https://github.com/EasyThrowCompany/EasyThrow)    | link    | link |
 | 9        | Detekcja oraz analiza interakcji międzyludzkich     | [link](https://github.com/TomaszGryczka/HADaR)    | link    | link |
 | 10        | Aplikacja do zliczania obiektów na zdjęciu          | [link](https://github.com/Majkel572/AzureObjCounter-S)    | [link](https://www.youtube.com/watch?v=y1BxUNQ7Llc)    | [link](https://user-images.githubusercontent.com/73585472/204158222-f5066195-ce66-4457-a8c2-8f614bc4851e.png) |
