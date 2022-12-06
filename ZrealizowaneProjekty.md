@@ -8,7 +8,7 @@
 | 2        | Wyszukiwanie książek przy pomocy tagów              | [link](https://github.com/Kasprzak-Arkadiusz/Azure-S)    | [link do yt](https://www.youtube.com/watch?v=PaKqKWVUsoU)    | link |
 | 3        | Silnik rekomendacji dla Spotify                     | [link](https://github.com/mihawb/synapse-recommendations)    | link    | link |
 | 4        | Aplikacja webowa do zabaw mikołajkowych             | [link](https://github.com/SmiledProgrammer/StNicholasGiftsAzure)    | link    | link |
-| 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | link    | link |
+| 5        | Urban foraging app                                      | [link](https://github.com/legeof008/urban-foraging-app)    | [link](https://www.youtube.com/watch?v=EaqB8KdXMjs)    | [link](https://user-images.githubusercontent.com/81482531/204142180-56e186f6-0bb3-4099-b540-b0e4d3beb39c.png) |
 | 6        | Bot wspomagający adopcję psów                                     | [link](https://github.com/luizalouise/DogAdoptionHelper)    | link    | link |
 | 7        | Aplikacja rozpoznająca choroby u roślin             | [link](https://github.com/KomorowskiKuba/plant-disease-detection)    | [link](https://www.youtube.com/watch?v=Qs1Xk0x3tXE)    | [link](https://github.com/KomorowskiKuba/plant-disease-classification/blob/master/diagram.jpg) |
 | 8        | EasyThrow - Aplikacja wspomagająca segregację śmieci | [link](https://github.com/EasyThrowCompany/EasyThrow)    | link    | link |
