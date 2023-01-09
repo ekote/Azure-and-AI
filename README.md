@@ -17,8 +17,8 @@ Przedmiot prowadzony w ramach studiów dziennych inżynierskich na kierunku Info
 | 15.11 | Dzień PW - nie ma zajęć                                  |
 | 22.11 | Konsultacje dla chętnych |
 | 29.11 | Wykład o Azure ML. Wcześniej - oddanie projektów S i start projektów XL ( w piątek). AI na Azure `assets/7.md`   |
-| 06.12 | Konsultacje nieobowiązkowe - Status projektów - <u>konsultacje obowiąkowe</u><br>12h indywidualnej pracy studenta (zapisy) |
-| 13.12 | Konsultacje nieobowiązkowe <br>12h indywidualnej pracy studenta (zapisy)         |
+| 06.12 | Konsultacje nieobowiązkowe <br>12h indywidualnej pracy studenta  |
+| 13.12 | Konsultacje nieobowiązkowe <br>12h indywidualnej pracy studenta    |
 | 20.12 | Oddanie projektów XL. Ethical AI i fairness <br> Po zajęciach - ostateczne wystawienie ocen <br> |
 
 
