@@ -25,7 +25,7 @@
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 2        | [Michał Tomczyk](https://github.com/KiczuPL) | Chess Helper | Opis | [link](https://github.com/mihawb/chess-helper) | link |
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
