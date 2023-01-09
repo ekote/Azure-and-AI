@@ -28,7 +28,7 @@
 | 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 5        | [Bartłomiej Kopyść](https://github.com/BKopysc) | PhotoSpeech | Aplikacja służąca do pomocy w nauce języków poprzez głosowe odgadywanie treści obrazków. | [link](https://github.com/Reszkins/PhotoSpeech) | [link](https://www.youtube.com/watch?v=sXJCISlnWRs&feature=youtu.be) |
 | 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 8        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
