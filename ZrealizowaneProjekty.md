@@ -27,7 +27,7 @@
 | 1        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 4        | [Andrzej Czechowski](https://github.com/czechoa) | NCMS | Celem było ulepszenie silnika rekomendacji wykonanego w ramach projektu S, dodanie nowych funkcjonalności oraz stworzenie poradnika, który pokazuje jak odtworzyć projekt od zera. | [link](https://github.com/ancq99/azure-movie-recommendation-engine) | [link](https://www.youtube.com/watch?v=dvQsflhWTao) |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
