@@ -26,7 +26,7 @@
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 3        | Agata Lachowiecka | plant-helper | The project's main aim was to create a all-in-one encompasing information and analitycs application which could be used by farmers, home garden owners and agricultural sector as a whole. With an easy chat bot interface ( which has become very popular in recent years ), this project strives to combine powerfull computational techniques ( AI, big data etc.) with accesability. | [link](https://github.com/patrykferenc/plant-helper) | [link](https://youtu.be/-rhfQ5SoaaY) |
+| 3        | [Agata Lachowiecka](https://github.com/AgataLa) | plant-helper | Bot pomagający w uprawie roślin | [link](https://github.com/patrykferenc/plant-helper) | [link](https://youtu.be/-rhfQ5SoaaY) |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
