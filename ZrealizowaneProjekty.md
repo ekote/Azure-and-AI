@@ -25,7 +25,7 @@
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 2        | [Arkadiusz Kasprzak](https://github.com/Kasprzak-Arkadiusz) | Przyjazna wyszukiwarka dla programisty | Wyszukiwanie stron internetowych spośród zbioru zaufanych stron przeznaczonych dla programisty | [link](https://github.com/Kasprzak-Arkadiusz/Azure-XL) | [link](https://milewsa3.github.io/azure-xl-frontend/) |
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
