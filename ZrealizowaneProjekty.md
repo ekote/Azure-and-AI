@@ -29,7 +29,7 @@
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 6 | [Nikodem Wójcik](https://github.com/01NikodemW) | Abandoned Miracles | Aplikacja ułatwiająca znalezienie poszukiwanych zwierząt | [link](https://github.com/iruszpel/abandoned-miracles) | [link](https://youtu.be/vZZ12LQf1Q8) |
 | 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 8        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 
