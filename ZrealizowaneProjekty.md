@@ -30,6 +30,6 @@
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 7        | [Michał Ziober](https://github.com/micha5555) | RecipeFinder | Wyszukiwanie przepisu potrawy na podstawie zdjęcia | [link](https://github.com/Majkel572/AzureRecipeFinder) | [link](https://www.youtube.com/watch?v=KMOndmBJCx8) |
 | 8        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 
