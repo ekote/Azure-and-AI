@@ -25,11 +25,11 @@
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
 | 1        | [Michał Wójcik](https://github.com/MarekSNowakowski) | Book Review Service | Serwis do recenzowania oraz rekomendowania książek | [link](https://github.com/orgs/azure-book-reviews/repositories) | [link](https://www.youtube.com/playlist?list=PLlncjWVNG0IJLxwH7tgB5BYOizAnKLF2A) |
-| 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 8        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
+| 3        | [Agata Lachowiecka](https://github.com/AgataLa) | plant-helper | Bot pomagający w uprawie roślin | [link](https://github.com/patrykferenc/plant-helper) | [link](https://youtu.be/-rhfQ5SoaaY) |
+| 4        | [Andrzej Czechowski](https://github.com/czechoa) | NCMS | Celem było ulepszenie silnika rekomendacji wykonanego w ramach projektu S, dodanie nowych funkcjonalności oraz stworzenie poradnika, który pokazuje jak odtworzyć projekt od zera. | [link](https://github.com/ancq99/azure-movie-recommendation-engine) | [link](https://www.youtube.com/watch?v=dvQsflhWTao) |
+| 5        | [Bartłomiej Kopyść](https://github.com/BKopysc) | PhotoSpeech | Aplikacja służąca do pomocy w nauce języków poprzez głosowe odgadywanie treści obrazków. | [link](https://github.com/Reszkins/PhotoSpeech) | [link](https://www.youtube.com/watch?v=sXJCISlnWRs&feature=youtu.be) |
+| 6 | [Nikodem Wójcik](https://github.com/01NikodemW) | Abandoned Miracles | Aplikacja ułatwiająca znalezienie poszukiwanych zwierząt | [link](https://github.com/iruszpel/abandoned-miracles) | [link](https://youtu.be/vZZ12LQf1Q8) |
+| 7        | [Michał Ziober](https://github.com/micha5555) | RecipeFinder | Wyszukiwanie przepisu potrawy na podstawie zdjęcia | [link](https://github.com/Majkel572/AzureRecipeFinder) | [link](https://www.youtube.com/watch?v=KMOndmBJCx8) |
+| 2        | [Arkadiusz Kasprzak](https://github.com/Kasprzak-Arkadiusz) | Przyjazna wyszukiwarka dla programisty | Wyszukiwanie stron internetowych spośród zbioru zaufanych stron przeznaczonych dla programisty | [link](https://github.com/Kasprzak-Arkadiusz/Azure-XL) | [link](https://milewsa3.github.io/azure-xl-frontend/) |
+| 1        | Fereniec    | Dev Search     | Ułatwienie wyszukiwania informacji dla programistów | [link](https://milewsa3.github.io/azure-xl-frontend) | [link do yt](https://www.youtube.com/watch?v=PaKqKWVUsoU](https://www.youtube.com/watch?v=Wqzi3TPMhUU&t=31s&ab_channel=Micha%C5%82Fereniec) |
 
