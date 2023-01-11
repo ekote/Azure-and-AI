@@ -24,6 +24,7 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
+| 2        | [Michał Tomczyk](https://github.com/KiczuPL) | Chess Helper | Opis | [link](https://github.com/mihawb/chess-helper) | link |
 | 1        | [Michał Wójcik](https://github.com/MarekSNowakowski) | Book Review Service | Serwis do recenzowania oraz rekomendowania książek | [link](https://github.com/orgs/azure-book-reviews/repositories) | [link](https://www.youtube.com/playlist?list=PLlncjWVNG0IJLxwH7tgB5BYOizAnKLF2A) |
 | 3        | [Agata Lachowiecka](https://github.com/AgataLa) | plant-helper | Bot pomagający w uprawie roślin | [link](https://github.com/patrykferenc/plant-helper) | [link](https://youtu.be/-rhfQ5SoaaY) |
 | 4        | [Andrzej Czechowski](https://github.com/czechoa) | NCMS | Celem było ulepszenie silnika rekomendacji wykonanego w ramach projektu S, dodanie nowych funkcjonalności oraz stworzenie poradnika, który pokazuje jak odtworzyć projekt od zera. | [link](https://github.com/ancq99/azure-movie-recommendation-engine) | [link](https://www.youtube.com/watch?v=dvQsflhWTao) |
