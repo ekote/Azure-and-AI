@@ -24,7 +24,7 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
-| 1        | [Marek Nowakowski](https://github.com/MarekSNowakowski) | Book Review Service | Serwis do recenzowania oraz rekomendowania książek | [link](https://github.com/orgs/azure-book-reviews/repositories) | link |
+| 1        | [Michał Wójcik](https://github.com/MarekSNowakowski) | Book Review Service | Serwis do recenzowania oraz rekomendowania książek | [link](https://github.com/orgs/azure-book-reviews/repositories) | [link](https://www.youtube.com/playlist?list=PLlncjWVNG0IJLxwH7tgB5BYOizAnKLF2A) |
 | 2        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
