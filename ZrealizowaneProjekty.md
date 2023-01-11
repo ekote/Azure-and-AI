@@ -24,12 +24,5 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
-| 1        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
 | 2        | [Arkadiusz Kasprzak](https://github.com/Kasprzak-Arkadiusz) | Przyjazna wyszukiwarka dla programisty | Wyszukiwanie stron internetowych spośród zbioru zaufanych stron przeznaczonych dla programisty | [link](https://github.com/Kasprzak-Arkadiusz/Azure-XL) | [link](https://milewsa3.github.io/azure-xl-frontend/) |
-| 3        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 4        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 5        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 6        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 7        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-| 8        | Imię nazwisko podlinkowane do profilu | nazwa projektu | Opis | link | link |
-
+| 1        | Fereniec    | Dev Search     | Ułatwienie wyszukiwania informacji dla programistów | [link](https://milewsa3.github.io/azure-xl-frontend) | [link do yt](https://www.youtube.com/watch?v=PaKqKWVUsoU](https://www.youtube.com/watch?v=Wqzi3TPMhUU&t=31s&ab_channel=Micha%C5%82Fereniec) |
