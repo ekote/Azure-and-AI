@@ -24,6 +24,7 @@
 
 | Nr grupy | Lider grupy | Nazwa projektu | Opis/Cel  | Repo link | Demo link                |
 |----------|-------------|----------------|-----------|-----------|--------------------------|
+| 3        | [Agata Lachowiecka](https://github.com/AgataLa) | plant-helper | Bot pomagający w uprawie roślin | [link](https://github.com/patrykferenc/plant-helper) | [link](https://youtu.be/-rhfQ5SoaaY) |
 | 4        | [Andrzej Czechowski](https://github.com/czechoa) | NCMS | Celem było ulepszenie silnika rekomendacji wykonanego w ramach projektu S, dodanie nowych funkcjonalności oraz stworzenie poradnika, który pokazuje jak odtworzyć projekt od zera. | [link](https://github.com/ancq99/azure-movie-recommendation-engine) | [link](https://www.youtube.com/watch?v=dvQsflhWTao) |
 | 5        | [Bartłomiej Kopyść](https://github.com/BKopysc) | PhotoSpeech | Aplikacja służąca do pomocy w nauce języków poprzez głosowe odgadywanie treści obrazków. | [link](https://github.com/Reszkins/PhotoSpeech) | [link](https://www.youtube.com/watch?v=sXJCISlnWRs&feature=youtu.be) |
 | 6 | [Nikodem Wójcik](https://github.com/01NikodemW) | Abandoned Miracles | Aplikacja ułatwiająca znalezienie poszukiwanych zwierząt | [link](https://github.com/iruszpel/abandoned-miracles) | [link](https://youtu.be/vZZ12LQf1Q8) |
